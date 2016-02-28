@@ -1,0 +1,29 @@
+_repo: The-Humorous-Poetry-of-the-English-Language-from-Chaucer-to-Saxe_6652
+contributor:
+  creator:
+    editor:
+      agent_name: Parton, James
+      birthdate: 1822
+      deathdate: 1891
+      gutenberg_agent_id: '2129'
+      url: http://www.gutenberg.org/2009/agents/2129
+      wikipedia: http://en.wikipedia.org/wiki/James_Parton
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- !lcsh 'American poetry'
+- !lcsh 'American wit and humor'
+- !lcsh 'Humorous poetry, American'
+- !lcsh 'Humorous poetry, English'
+title: The Humorous Poetry of the English Language; from Chaucer to Saxe
+url: http://www.gutenberg.org/ebooks/6652
