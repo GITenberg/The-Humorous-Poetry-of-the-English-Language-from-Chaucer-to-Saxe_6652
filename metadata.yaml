@@ -1,4 +1,5 @@
 _repo: The-Humorous-Poetry-of-the-English-Language-from-Chaucer-to-Saxe_6652
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,7 +9,12 @@ contributor:
       gutenberg_agent_id: '2129'
       url: http://www.gutenberg.org/2009/agents/2129
       wikipedia: http://en.wikipedia.org/wiki/James_Parton
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6652#The-Humorous-Poetry-of-the-English-Language-from-Chaucer-to-Saxe
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
